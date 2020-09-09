@@ -5,9 +5,10 @@ public class HelloGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 System.out.println("Hello Gits");
-System.out.println("¸üÐÂ1");
-System.out.println("´´½¨·ÖÖ§");
-System.out.println("Ö÷¸ÉÌí¼Ó");
+System.out.println("ï¿½ï¿½ï¿½ï¿½1");
+System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§");
+System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+System.out.println("æ›´æ–°");
 	}
 
 }
